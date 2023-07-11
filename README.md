@@ -1,14 +1,12 @@
-# Expo Router Example
+# Published Expo Link
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+[`PelamChakri`](https://expo.dev/@the_codermaniac/PelamChakri?serviceType=classic&distribution=expo-go)
 
-## 🚀 How to use
+
+## 🚀 How to Run
 
 ```sh
-npx create-expo-app -e with-router
+npm install
+npm start 
 ```
 
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
